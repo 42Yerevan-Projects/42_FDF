@@ -29,9 +29,8 @@ Executing your fdf program using the example file 42.fdf:
 ```
 Should render a landscape similar to:
 
-```
-
-```
+ ![FDF and 42Yerevan](./fdf.png)
+ 
 ## FDF Usage
 
 ```
