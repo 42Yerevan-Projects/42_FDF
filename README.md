@@ -46,6 +46,8 @@ Controls:
       [Left Shift]    -> Zoom out.
       Arrow keys      -> Move the map.
 ```
+#Resource
+- <a href="https://harm-smits.github.io/42docs/libs/minilibx">MinilibX 42 Docs</a>
 
 ## Additional information
 
