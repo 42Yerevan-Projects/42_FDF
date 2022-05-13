@@ -44,7 +44,7 @@ Controls:
       [B]             -> Change color of map to "Blue".
       [Right Shift]   -> Zoom in
       [Left Shift]    -> Zoom out.
-      Arrow keys      -> Move the map.
+      [Arrow keys]    -> Move the map.
 ```
 #Resource
 - <a href="https://harm-smits.github.io/42docs/libs/minilibx">MinilibX 42 Docs</a>
